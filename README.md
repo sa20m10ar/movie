@@ -1,16 +1,8 @@
 # movie
 
-A new Flutter application.
+A new Flutter application fetching movies info from themoviedb
 
-## Getting Started
+ScreenShot
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1622158563](https://user-images.githubusercontent.com/49023331/119909880-3f002980-bf56-11eb-99d1-df8232f02dce.png)
